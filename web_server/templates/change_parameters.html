@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form action="/change_parameters" method="POST" enctype=multipart/form-data>
+
+    {%for parameter in params.keys() %}
+        <div>
+            <label for="{{parameter}}">{{ parameter.capitalize() }}</label>
+
+            <select id="{{parameter}}" name="chosen_type_parameters">
+                {%for choice in params[parameter] %}
+                   <option value="{{choice}}">{{choice}}</option>
+
+                {% endfor %}
+
+            </select>
+        </div>
+    {% endfor %}
+
+    <div>
+        <button type="submit" id="recognize" aria-label="Next">Submit</button>
+    </div>
+</form>
+</body>
+</html>

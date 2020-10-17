@@ -1,0 +1,599 @@
+{
+  "start_message": {
+    "uk": "Upload your video and our AI will select the music for it!",
+    "ua": "Завантаж своє відео, і наш AI добере музику для нього!",
+    "ru": "Загрузи свое видео, и наш AI выберет для него музыку!"
+  },
+  "start": {
+    "uk": "Upload your video and our AI will select the music for it!\n\nYou can upload your video at any time using /upload_new_video command.",
+    "ua": "Завантаж своє відео, і наш AI добере музику для нього!\n\nТи можеш завантажити своє відео у будь-який час використовуючи команду /upload_new_video",
+    "ru": "Загрузи свое видео, и наш AI выберет для него музыку!\n\nТы можешь загрузить свое видео в любое время используя команду /upload_new_video"
+  },
+  "send_support": {
+    "uk": [
+      "\uD83E\uDD17 If you need any help, please, send your question to my friends:\nNazar Ponochevnyi - {}\nDenys Herasymuk - {}"
+    ],
+    "ua": [
+      "\uD83E\uDD17 Якщо тобі потрібна допомога, будь ласка, напиши своє запитання моїм друзям:\nНазар Поночевний - {}\nДенис Герасимук - {}"
+    ],
+    "ru": [
+      "\uD83E\uDD17 Если тебе нужна помощь, пожалуйста, напиши свой вопрос моим друзьям:\nНазар Поночевный - {}\nДенис Герасимук - {}"
+    ]
+  },
+  "start_upload_video_buttons": {
+    "uk": [
+      "\uD83D\uDC2C Upload video less 20 mb",
+      "\uD83D\uDC0B Upload video more 20 mb",
+      "Upload your video and our AI will select the music for it!\n\nYou can upload your video at any time using /upload_new_video command."
+    ],
+    "ua": [
+      "\uD83D\uDC2C Обробити відео менше 20 МБ",
+      "\uD83D\uDC0B Обробити відео більше 20 МБ",
+      "Завантаж своє відео, і наш AI добере музику для нього!\n\nТи можеш завантажити своє відео у будь-який час використовуючи команду /upload_new_video"
+    ],
+    "ru": [
+      "\uD83D\uDC2C Обработать видео меньше 20 МБ",
+      "\uD83D\uDC0B Обработать видео больше 20 МБ",
+      "Загрузи свое видео, и наш AI выберет для него музыку!\n\nТы можешь загрузить свое видео в любое время используя команду /upload_new_video"
+    ]
+  },
+  "send_info": {
+    "uk": "Harmix™ – software for harmonious combination of video and music\n\nFor those, who create music, it’s difficult to choose the right video for their music. For those, who create video, it’s difficult to select the right music. It is very important to combine music and videos harmoniously and to share the author's idea successfully. It takes a lot of time for bloggers, video editors and music writers to compare and analyze tons of material themselves and to look at millions of different combinations and to compare each of them individually. Therefore we created an intelligent service that automatically selects music for your video.\n\nHarmix™ is the winner of the Intel ISEF 2019, one of the world's largest science competitions, held annually in the United States. But we don't want to leave it at the scientific level - we want it to help millions of video editors, music writers, and even teenagers who want to post cool videos in Instagram :)\n\nContact:\nContact person: Nazar Ponochevnyi\nPhone: +380 95 792 4944 (WhatsApp, Viber, Telegram)\nEmail: nazar.ponochevnyi@gmail.com",
+    "ua": "Harmix™ - програмне забезпечення для гармонійного поєднання відео та музики\n\nДля блогерів, відеомонтажерів і композиторів добір музики до відео та відео до музики, що гармонійно поєднуються і вдало передають задум митця, є складним і тривалим процесом. Бо не можливо самостійно відчувати багато детальних характеристик відео чи аудіо матеріалу, передивлятися мільйони різних варіантів поєднання і власноруч порівнювати кожен з них. Тому ми створили інтелектуальний сервіс, який автоматично добирає музику до вашого відео.\n\nHarmix™ став призером Intel ISEF 2019 - одного з найбільших наукових конкурсів у світі, який щорічно проводиться в США. Але ми не хочемо це залишати на рівні науки - ми хочемо щоб це допомагало мільйонам відеомонтажерів, композиторів і навіть звичайним підліткам, які хочуть викласти круте відео в Instagram :)\n\nКонтактні дані:\nКонтактна особа: Поночевний Назар\nТелефон: +380 95 792 4944 (WhatsApp, Viber, Telegram)\nEmail: nazar.ponochevnyi@gmail.com",
+    "ru": "Harmix™ - программное обеспечение для гармоничного сочетания видео и музыки.\n\nДля тех, кто создает музыку, трудно выбрать подходящее видео для своей музыки. Для тех, кто создает видео, трудно выбрать правильную музыку. Очень важно гармонично сочетать музыку и видео и успешно передавать авторскую идею. Блогерам, видео-монтажерам и композиторам требуется много времени для того, чтобы самим сравнить и проанализировать тонны материала, посмотреть на миллионы различных комбинаций и сравнить каждую из них в отдельности. Поэтому мы создали интеллектуальный сервис, который автоматически подбирает музыку для вашего видео.\n\nHarmix™ является победителем Intel ISEF 2019, одного из крупнейших в мире научных конкурсов, который ежегодно проводится в США. Но мы не хотим оставлять его на научном уровне - мы хотим, чтобы он помог миллионам видео-монтажеров, композиторов и даже подросткам, которые хотят выкладывать крутые видеоролики в Instagram :).\n\nКонтакты:\nКонтактное лицо: Поночевный Назар\nТелефон: +380 95 792 4944 (WhatsApp, Viber, Telegram)\nЭлектронный адрес: nazar.ponochevnyi@gmail.com"
+  },
+  "get_video_less_20": {
+    "uk": [
+      "Are you sure that you want to upload this video? (Choose YES/NO)",
+      "The bot receives files in such formats - ('mp4', 'avi', 'webm', 'mkv', 'flv', 'mov', 'wmv', 'm4v', '3gp', 'ogv', 'ogg', 'vob'). Please, send these formats once more to adapt your file",
+      [
+        "YES",
+        "NO"
+      ],
+      "Upload a video through the website",
+      "Unfortunately, nowadays the bot receives video only up to 20 MB.\nPlease upload your file less 20 mb",
+      "\uD83C\uDD93 You can upload videos up to 20 MB for free, or for $1 / month upload videos up to 500 MB and enjoy the Harmix Pro subscription features ❤️",
+      [
+        "\uD83D\uDCF1 Pay $1 in Telegram",
+        "\uD83D\uDDA5 Pay $1 on our website"
+      ],
+      "\uD83D\uDE0E Upload your video through the website, and go back to me to Telegram.\n\nOtherwise, click the \"Upload new video\" button to upload a new video.",
+      "Cancel",
+      "\uD83C\uDFC6 <strong>Harmix Pro monthly subscription plan</strong> \uD83C\uDFC6\n\n<strong>Price:</strong> $1 / month\n\n➡️ You will receive:\n    ☑ Uploading video files from 20 MB till 500 MB\n    ☑ Adding fade effects to your video\n    \uD83E\uDD84 And more other features will be added soon!\n\nBy making a payment, you agree to the <a href='{}'>Upload Terms</a>, <a href='{}'>Terms of Use</a> and <a href='{}'>Privacy Policy</a>.\n\nIf you need to help, please, click on /support command \uD83E\uDD17",
+      "Unfortunately, Telegram does not allow you to upload to chatbot files larger than 20 MB.\n\nTherefore, to upload videos larger than 20 MB, use the button below to upload your video through the website"
+    ],
+    "ua": [
+      "Ти впевнений, що хочеш завантажити це відео? (Вибери ТАК/НІ)",
+      "Бот отримує файли у таких форматах - ('mp4', 'avi', 'webm', 'mkv', 'flv', 'mov', 'wmv', 'm4v', '3gp', ' ogv ',' ogg ',' vob ')",
+      [
+        "ТАК",
+        "НІ"
+      ],
+      "Завантажити відео через веб-сайт",
+      "На жаль, поки бот приймає відео тільки до 20 МБ.\nЗавантаж файл менше 20 мб",
+      "\uD83C\uDD93 Ти можеш безкоштовно завантажувати відео до 20 MB, або за $1 / місяць завантажувати відео до 500 MB і насолоджуватися функціями Harmix Pro підписки ❤️",
+      [
+        "\uD83D\uDCF1 Оплатити $1 у Telegram",
+        "\uD83D\uDDA5 Оплатити $1 на нашому веб-сайті"
+      ],
+      "\uD83D\uDE0E Завантаж своє відео через веб-сайт, і повертайся назад до мене у Telegram.\n\nІнакше, натисни кнопку \"Завантажити нове відео\", щоб завантажити нове відео.",
+      "Скасувати",
+      "\uD83C\uDFC6 <strong>Щомісячний абонементний план Harmix Pro</strong> \uD83C\uDFC6\n\n<strong>Ціна:</strong> $1 / місяць\n\n➡️ Ти зможеш:\n    ☑ Обробляти відео від 20 MB до 500 MB\n    ☑ Додавати ефекти згасання до своїх відео\n    \uD83E\uDD84 Та більше нових можливостей буде додано у скорому часі!\n\nВиконуючи оплату ти погоджуєшся з <a href='{}'>умовами завантаження</a>, <a href='{}'>умовами використання</a> і <a href='{}'>політикою конфіденційності</a>.\n\nЯкщо тобі потрібна допомога, будь ласка, натисни на команду /support \uD83E\uDD17",
+      "На жаль, Telegram не дає можливості завантажувати чат-боту файли більше 20 мб.\n\nТому, щоб завантажити відео більше 20 мб, скористайся кнопкою нижче, щоб завантажити своє відео через веб-сайт"
+    ],
+    "ru": [
+      "Ты уверен, что хочешь загрузить это видео? (Выбери ДА/НЕТ)",
+      "Бот получает файлы в таких форматах - ( 'mp4', 'avi', 'webm', 'mkv', 'flv', 'mov', 'wmv', 'm4v', '3gp', 'ogv', 'ogg','vob'). Пожалуйста, пришли эти форматы еще раз, чтобы обработать файл",
+      [
+        "ДА",
+        "НЕТ"
+      ],
+      "Загрузить видео через веб-сайт",
+      "К сожалению, пока бот принимает видео только до 20 МБ.\nПожалуйста, загрузи свое видео меньше 20 МБ",
+      "\uD83C\uDD93 Ты можешь бесплатно загружать видео до 20 MB, или за $1 / месяц загружать видео до 500 MB и наслаждаться функциями Harmix Pro подписки ❤️",
+      [
+        "\uD83D\uDCF1 Оплатить $1 в Telegram",
+        "\uD83D\uDDA5 Оплатить $1 на нашем веб-сайте"
+      ],
+      "\uD83D\uDE0E Загрузи свое видео через веб-сайт, и возвращайся обратно ко мне в Telegram.\n\nИначе, нажми кнопку \"Загрузить новое видео\", чтобы загрузить новое видео.",
+      "Отменить",
+      "\uD83C\uDFC6 <strong>Harmix Pro ежемесячный тарифный план</strong> \uD83C\uDFC6\n\n<strong>Цена:</strong> $1 / месяц\n\n➡️ Ты сможешь:\n    ☑ Обрабатывать видео от 20 MB до 500 MB\n    ☑ Применять эффекты затухания к своим видео\n    \uD83E\uDD84 И больше других плюшек будет добавлено скоро!\n\nВыполняя оплату ты соглашаешся с <a href='{}'>условиями загрузки</a>, <a href='{}'>условиями использования</a> и <a href='{}'>политикой конфиденциальности</a>.\n\nЕсли тебе нужна помощь, пожалуйста, нажми на команду /support \uD83E\uDD17",
+      "К сожалению, Telegram не дает возможности загружать чат-бота файлы более 20 мб.\n\nПоэтому, чтобы загрузить видео более 20 мб, воспользуйся кнопкой ниже, чтобы загрузить свое видео через веб-сайт"
+    ]
+  },
+  "get_file": {
+    "uk": [
+      "Are you sure that you want to upload this video? (Choose YES/NO)",
+      "Unfortunately, nowadays the bot receives video only up to 20 MB.\nI take only such formats:\n'mp4', 'avi', 'webm', 'mkv', 'flv', 'mov', 'wmv', 'm4v', '3gp', 'ogv', 'ogg', 'vob'.\nPlease upload your file again",
+      [
+        "YES",
+        "NO"
+      ]
+    ],
+    "ua": [
+      "Ти впевнений, що хочеш завантажити це відео? (Вибери ТАК/НІ)",
+      "На жаль, поки бот приймає відео тільки до 20 МБ. Я приймаю лише такі формати: \n'mp4', 'avi', 'webm', 'mkv', 'flv', 'mov', 'wmv', 'm4v', '3gp', 'ogv','ogg','vob'. \nЗавантаж свій файл знову",
+      [
+        "ТАК",
+        "НІ"
+      ]
+    ],
+    "ru": [
+      "Ты уверен, что хочешь загрузить это видео? (Выбери ДА/НЕТ)",
+      "К сожалению, пока бот принимает видео только до 20 МБ. Я использую только такие форматы : \n'mp4','avi','webm','mkv','flv','mov','wmv','m4v','3gp',' ogv ','ogg','vob'.\nПожалуйста, загрузи свой файл снова",
+      [
+        "ДА",
+        "НЕТ"
+      ]
+    ]
+  },
+  "get_video": {
+    "uk": [
+      "Less 20 mb",
+      "More 20 mb",
+      "Do you want to upload a video:"
+    ],
+    "ua": [
+      "Менше 20 мб",
+      "Більше 20 мб",
+      "Ти хочеш завантажити відео:"
+    ],
+    "ru": [
+      "Меньше 20 мб",
+      "Больше 20 мб",
+      "Ты хочешь загрузить видео:"
+    ]
+  },
+  "get_text": {
+    "uk": [
+      "Loading...\nNow AI analyzes your video and predicts\nthe harmonious music.\nYou should wait for only a few minutes. Thanks!",
+      "I take only video and answers on my questions) Be sure that you input correctly. Try ones more to answer on my previous message"
+    ],
+    "ua": [
+      "Завантаження...\nЗараз AI аналізує твоє відео та добирає\nгармонійну музику.\nТобі слід почекати лише кілька хвилин. Дякую!",
+      "Я приймаю лише відео та відповіді на свої запитання) Перевір, що ти ввів правильно. Спобуй ще раз відповісти на моє попереднє повідомлення"
+    ],
+    "ru": [
+      "Идет загрузка...\nСейчас AI анализирует твое видео и подбирает\nгармоническую музыку.\nТебе нужно подождать всего несколько минут. Спасибо!",
+      "Я принимаю только видео и ответы на свои вопросы) Убедись, что ты ввел правильно. Попробуй еще раз ответить на мое предыдущее сообщение"
+    ]
+  },
+  "change_parameters_buttons": {
+    "uk": "Harmix™ suggests you music with these parameters, \nbut if you wish, you can change it to share your idea:",
+    "ua": "Harmix™ пропонує тобі музику з цими параметрами, \nале якщо ти бажаєш, ти можеш змінити їх, щоб втілити власну ідею:",
+    "ru": "Harmix™ предлагает тебе музыку с этими параметрами, \nно если ты хочешь, ты можешь изменить их, чтобы воплотить свою идею:"
+  },
+  "parameters": {
+    "uk": [
+      "genre",
+      "mood",
+      "instrument",
+      "vocal",
+      "fade_effects",
+      "original_video_volume",
+      "music_volume"
+    ],
+    "ua": [
+      "жанр",
+      "настрій",
+      "інструмент",
+      "вокал",
+      "ефекти згасання",
+      "гучність звуку з відео",
+      "гучність музики"
+    ],
+    "ru": [
+      "жанр",
+      "настроение",
+      "инструмент",
+      "вокал",
+      "эффекты затухания",
+      "громкость звука из видео",
+      "громкость музыки"
+    ]
+  },
+  "choices": {
+    "uk": {
+      "genre": [
+        "Any genre",
+        "Metal",
+        "Disco",
+        "Classical",
+        "Hiphop",
+        "Jazz",
+        "Country",
+        "Pop",
+        "Blues",
+        "Reggae",
+        "Rock"
+      ],
+      "mood": [
+        "Any mood",
+        "Happy",
+        "Funny",
+        "Sad",
+        "Tender",
+        "Angry",
+        "Scary"
+      ],
+      "instrument": [
+        "Any instrument",
+        "Cello",
+        "Clarinet",
+        "Flute",
+        "Acoustic guitar",
+        "Electric guitar",
+        "Organ",
+        "Piano",
+        "Saxophone",
+        "Trumpet",
+        "Violin"
+      ],
+      "vocal": [
+        "0.5",
+        "0",
+        "1"
+      ],
+      "fade_effects": [
+        "Disable",
+        "Enable"
+      ],
+      "original_video_volume": [
+        "0 %",
+        "20 %",
+        "40 %",
+        "60 %",
+        "80 %",
+        "100 %"
+      ],
+      "music_volume": [
+        "10%",
+        "20%",
+        "40%",
+        "60%",
+        "80%",
+        "100%"
+      ]
+    },
+    "ua": {
+      "жанр": [
+        "Будь-який жанр",
+        "Метал",
+        "Диско",
+        "Класика",
+        "Хіп-хоп",
+        "Джаз",
+        "Кантрі",
+        "Поп",
+        "Блюз",
+        "Реггі",
+        "Рок"
+      ],
+      "настрій": [
+        "Будь-який настрій",
+        "Щасливий",
+        "Веселий",
+        "Сумний",
+        "Ніжний",
+        "Сердитий",
+        "Страшний"
+      ],
+      "інструмент": [
+        "Будь-який інструмент",
+        "Віолончель",
+        "Кларнет",
+        "Флейта",
+        "Акустична гітара",
+        "Електрогітара",
+        "Орган",
+        "Фортепіано",
+        "Саксофон",
+        "Труба",
+        "Скрипка"
+      ],
+      "вокал": [
+        "0.5",
+        "0",
+        "1"
+      ],
+      "ефекти згасання": [
+        "Вимкнені",
+        "Увімкнені"
+      ],
+      "гучність звуку з відео": [
+        "0 %",
+        "20 %",
+        "40 %",
+        "60 %",
+        "80 %",
+        "100 %"
+      ],
+      "гучність музики": [
+        "10%",
+        "20%",
+        "40%",
+        "60%",
+        "80%",
+        "100%"
+      ]
+    },
+    "ru": {
+      "жанр": [
+        "Любой жанр",
+        "Металл",
+        "Диско",
+        "Классика",
+        "Хип-хоп",
+        "Джаз",
+        "Кантри",
+        "Поп",
+        "Блюз",
+        "Регги",
+        "Рок"
+      ],
+      "настроение": [
+        "Любое настроение",
+        "Счастливое",
+        "Веселое",
+        "Грустное",
+        "Нежное",
+        "Сердитое",
+        "Страшное"
+      ],
+      "инструмент": [
+        "Любой инструмент",
+        "Виолончель",
+        "Кларнет",
+        "Флейта",
+        "Акустическая гитара",
+        "Электрогитара",
+        "Орган",
+        "Фортепиано",
+        "Саксофон",
+        "Труба",
+        "Скрипка"
+      ],
+      "вокал": [
+        "0.5",
+        "0",
+        "1"
+      ],
+      "эффекты затухания": [
+        "Выключенные",
+        "Включенные"
+      ],
+      "громкость звука из видео": [
+        "0 %",
+        "20 %",
+        "40 %",
+        "60 %",
+        "80 %",
+        "100 %"
+      ],
+      "громкость музыки": [
+        "10%",
+        "20%",
+        "40%",
+        "60%",
+        "80%",
+        "100%"
+      ]
+    }
+  },
+  "vocal_marks": {
+    "uk": [
+      "Any",
+      "Without lyrics",
+      "With lyrics"
+    ],
+    "ua": [
+      "Будь-що",
+      "Без слів",
+      "Зі словами"
+    ],
+    "ru": [
+      "Любое",
+      "Без слов",
+      "Со словами"
+    ]
+  },
+  "fade_marks": {
+    "uk": [
+      "Disable",
+      "Enable"
+    ],
+    "ua": [
+      "Вимкнені",
+      "Увімкнені"
+    ],
+    "ru": [
+      "Выключенные",
+      "Включенные"
+    ]
+  },
+  "next": {
+    "uk": [
+      "SKIP",
+      "CONTINUE"
+    ],
+    "ua": [
+      "ПРОПУСТИТИ",
+      "ДАЛІ"
+    ],
+    "ru": [
+      "ПРОПУСТИТЬ",
+      "ДАЛЕЕ"
+    ]
+  },
+  "take_input": {
+    "uk": [
+      "Loading... \nNow AI searching music and harmoniously combines it with your video",
+      "Upload your video and our AI will select the music for it!"
+    ],
+    "ua": [
+      "Завантаження... \nЗараз AI шукає музику і гармонійно поєднує її з твоїм відео",
+      "Завантаж своє відео і наш AI добере музику для нього!"
+    ],
+    "ru": [
+      "Идет загрузка... \nСейчас AI ищет музыку и гармонично сочетает её с твоим видео",
+      "Загрузи свое видео и наш AI выберет для него музыку!"
+    ]
+  },
+  "type_keyboard": {
+    "uk": "Choose which type you want. Don't forget to scroll to the end \uD83D\uDE09",
+    "ua": "Вибери потрібний тип. Не забудь прокрутити до кінця \uD83D\uDE09",
+    "ru": "Выбери нужный тип. Не забудь прокрутить до конца \uD83D\uDE09"
+  },
+  "send_video_to_user": {
+    "uk": [
+      "Result video:",
+      "Powered by <a href=\"https://t.me/harmix_bot\">Harmix™</a>",
+      "If you want to continue, upload a new video\nand our AI will select the music for it!",
+      "You can improve the result or\nupload a new video. \n\nTo improve the result, try to click: \n1) \"More similar music\" button to listen to other similar music \n2) \"Change music parameters\" button to share your idea",
+      "\uD83D\uDE4A Something went wrong. Please, try to change music parameters, upload the video again or click /support to write to my friends about the mistake",
+      "\uD83C\uDFB5 Loading other similar soundtracks for this video...\nYou should wait for only a few minutes",
+      "\uD83E\uDD73\uD83C\uDFAC <strong>Result video:</strong>\n<a href=\"{}\">Download video</a> | <a href=\"{}\">Download music</a>\n\nLink to video works for 24 hours, so if you need the video, download it to your device \uD83D\uDE09\n\n<strong>Hint:</strong> to download video over 20 MB on your iPhone or iPad, use the <a href=\"https://apps.apple.com/app/dropbox-backup-sync-share/id327630330\">Dropbox</a> app"
+    ],
+    "ua": [
+      "Готове відео:",
+      "Зроблено за допомогою <a href=\"https://t.me/harmix_bot\">Harmix™</a>",
+      "Якщо ти бажаєш продовжити, завантаж нове відео \nі наш AI добере музику для нього!",
+      "Ти можеш покращити результат або \nзавантажити нове відео. \n\nДля покращення результату спробуй натиснути кнопку: \n1) \"Більше схожої музики\", щоб прослухати іншу подібну музику \n2) \"Змінити параметри музики\", щоб втілити власну ідею",
+      "\uD83D\uDE4A Щось пішло не так. Будь ласка, спробуй змінити параметри музики, завантажити відео ще раз або тисни /support, щоб написати моїм друзям про помилку",
+      "\uD83C\uDFB5 Завантаження інших подібних саундтреків для цього відео... \nТобі слід почекати лише кілька хвилин",
+      "\uD83E\uDD73\uD83C\uDFAC <strong>Готове відео:</strong>\n<a href=\"{}\">Завантажити відео</a> | <a href=\"{}\">Завантажити музику</a>\n\nПосилання на відео працює 24 години, тому, якщо тобі потрібно, завантаж відео на свій пристрій \uD83D\uDE09\n\n<strong>Підказка:</strong> щоб завантажити відео більше 20 MB на iPhone чи iPad, використовуй додаток <a href=\"https://apps.apple.com/app/dropbox-backup-sync-share/id327630330\">Dropbox</a>"
+    ],
+    "ru": [
+      "Готовое видео:",
+      "Сделано с помощью <a href=\"https://t.me/harmix_bot\">Harmix™</a>",
+      "Если ты хочешь продолжить, загрузи новое видео \nи наш AI выберет для него музыку!",
+      "Ты можешь улучшить результат или \nзагрузить новое видео. \n\nДля улучшения результата попробуй нажать кнопку: \n1) \"Больше похожей музыки\", чтобы прослушать другую похожую музыку \n2) \"Изменить параметры музыки\", чтобы воплотить свою идею",
+      "\uD83D\uDE4A Что-то пошло не так. Пожалуйста, попробуй изменить параметры музыки, загрузить видео еще раз или нажми /support, чтобы написать моим друзьям об ошибке",
+      "\uD83C\uDFB5 Загрузка других похожих саундтреков для этого видео... \nТебе нужно подождать всего несколько минут",
+      "\uD83E\uDD73\uD83C\uDFAC <strong>Готовое видео:</strong>\n<a href=\"{}\">Скачать видео</a> | <a href=\"{}\">Скачать музыку</a>\n\nСсылка на видео работает 24 часа, поэтому, если тебе нужно, скачай видео на своё устройство \uD83D\uDE09\n\n<strong>Подсказка:</strong> чтобы скачать видео больше 20 MB на iPhone или iPad, используй приложение <a href=\"https://apps.apple.com/app/dropbox-backup-sync-share/id327630330\">Dropbox</a>"
+    ]
+  },
+  "survey_buttons": {
+    "uk": [
+      "Take a survey",
+      "Could you take a small survey to make me better? Thanks)\n\nYou can take a survey at any time using the /start_survey command"
+    ],
+    "ua": [
+      "Пройти опитування",
+      "Чи можеш ти пройти маленьке опитування, щоб зробити мене краще? Дякую)\n\nТи можеш пройти опитування у будь-який час використовуючи команду /start_survey"
+    ],
+    "ru": [
+      "Принять участие в опросе",
+      "Не мог бы ты принять участие в маленьком опросе, чтобы сделать меня лучше? Спасибо)\n\nТы можешь принять участие в любое время используя команду /start_survey"
+    ]
+  },
+  "buy_subscription": {
+    "uk": ["Subscription status", "Your plan", "Harmix Pro monthly subscription", "Your PREMIUM features", "Uploading video files from 20 MB till 500 MB", "Adding fade effects to your video", "And more other features will be added soon!", "Due date",
+    "Alert! Now you already have a Harmox Pro subscription. You should not pay once more :=)"],
+    "ua": ["Статус підписки", "Твій план", "Щомісячна підписка на Harmix Pro", "Твої функції PREMIUM", "Завантаження відеофайлів від 20 МБ до 500 МБ", "Додавання ефектів затухання до вашого відео" ,"Та інші функції буде додано незабаром! ","Дата закінчення підписки",
+    "Попередження! Зараз у тебе вже є підписка на Harmox Pro. Ти не повинен платити ще раз :=)"],
+    "ru": ["Статус подписки", "Твой план", "Ежемесячная подписка на Harmix Pro", "Твои функции PREMIUM", "Загрузка видеофайлов от 20 МБ до 500 МБ", "Добовление еффектов затухания до вашего видео" ,"И другие функции будет добавлено в скором времени! ","Дата окончания подписки",
+    "Внимание! Сейчас у тебя уже есть подписка на Harmox Pro. Не нужно платить еще раз :=)"]
+  },
+  "subscription_status":{
+    "uk": ["<strong>Subscription status:</strong>\n\nYour plan: \uD83C\uDFC6 <strong>Harmix Pro monthly subscription</strong> \uD83C\uDFC6 \n\n➡️ Your PREMIUM features:\n    ☑ Uploading video files from 20 MB till 500 MB\n    ☑ Adding fade effects to your video\n    \uD83E\uDD84 And more other features will be added soon!\n\n\uD83D\uDD01 <strong>Due date</strong>: {} \uD83D\uDD01",
+    "<strong>Subscription status:</strong>\n\nYour plan: <strong>You haven't Harmix Pro subscription</strong> \uD83D\uDE25",
+      "\uD83D\uDE4A Something went wrong.\nPlease, try again or contact support with /support command to get details"
+    ],
+    "ua": ["<strong>Статус плану:</strong>\n\nТвій план: \uD83C\uDFC6 <strong>Щомісячний абонементний план Harmix Pro</strong> \uD83C\uDFC6 \n\n➡️ Твої PREMIUM можливості:\n    ☑ Обробляти відео від 20 MB до 500 MB\n    ☑ Додавати ефекти згасання до своїх відео\n    \uD83E\uDD84 Та більше нових можливостей буде додано у скорому часі!\n\n\uD83D\uDD01 <strong>Кінцева дата плану</strong>: {} \uD83D\uDD01",
+    "<strong>Статус плану:</strong>\n\nТвій план: <strong>Ти не маєш Harmix Pro підписки</strong> \uD83D\uDE25",
+      "\uD83D\uDE4A  Щось пішло не так.\nБудь ласка, спробуй ще раз або напиши нам про проблему за допомогою команди /support"
+    ],
+    "ru": ["<strong>Статус подписки:</strong>\n\nТвой план: \uD83C\uDFC6 <strong>Harmix Pro ежемесячный тарифный план</strong> \uD83C\uDFC6 \n\n➡️ Твои PREMIUM возможности:\n    ☑ Обрабатывать видео от 20 MB до 500 MB\n    ☑ Применять эффекты затухания к своим видео\n    \uD83E\uDD84 И больше других плюшек будет добавлено скоро!\n\n\uD83D\uDD01 <strong>Дата окончания подписки</strong>: {} \uD83D\uDD01",
+    "<strong>Статус подписки:</strong>\n\nТвой план: <strong>У тебя нет Harmix Pro подписки</strong> \uD83D\uDE25",
+      "\uD83D\uDE4A Что-то пошло не так. \nПожалуйста, попробуй еще раз или напиши нам об ошибке с помощью команды /support"
+    ]
+  },
+  "got_payment": {
+    "uk": ["\uD83C\uDF89 <strong> Woohoo!</strong> Thanks for your payment! ❤️\n\nNow you get \uD83C\uDFC6 <strong>Harmix Pro monthly subscription</strong> \uD83C\uDFC6 with a plenty amount of PREMIUM features! Have fun watching! ⭐️\n\nYou can find information about <strong>your subscription plan</strong> using /subscription_status command \uD83D\uDE07"],
+    "ua": ["\uD83C\uDF89 <strong>Woohoo!</strong> Дякую за оплату! ❤️\n\nЩойно ти отримав \uD83C\uDFC6 <strong>щомісячний абонементний план Harmix Pro</strong> \uD83C\uDFC6 з великою кількістю нових можливостей! Приємного користування! ⭐️\n\nТи можеш дізнатися <strong>деталі свого абонементного плану</strong> за допомогою команди /subscription_status \uD83D\uDE07"],
+    "ru": ["\uD83C\uDF89 <strong>Woohoo!</strong> Спасибо за оплату! ❤️\n\nТолько что ты получил \uD83C\uDFC6 <strong>Harmix Pro ежемесячный тарифный план</strong> \uD83C\uDFC6 с большим количеством новых возможностей! Приятного использования! ⭐️\n\nТы можешь узнать <strong>о деталях своей подписки</strong> с помощью команды /subscription_status \uD83D\uDE07"]
+  },
+  "improve_and_upload_buttons": {
+    "uk": [
+      "More similar music",
+      "You can improve the result or\nupload a new video. \n\nTo improve the result, try to click: \n1) \"More similar music\" button to listen to other similar music \n2) \"Change music parameters\" button to share your idea",
+      "Upload a new video",
+      "Change music parameters",
+      "\uD83D\uDE00\uD83D\uDC0B I uploaded the video to the website",
+      "Your video is not downloaded\nWait video uploading\nor forward your video to our bot once more"
+    ],
+    "ua": [
+      "Більше схожої музики",
+      "Ти можеш покращити результат або \nзавантажити нове відео. \n\nДля покращення результату спробуй натиснути кнопку: \n1) \"Більше схожої музики\", щоб прослухати іншу подібну музику \n2) \"Змінити параметри музики\", щоб втілити власну ідею",
+      "Завантажити нове відео",
+      "Змінити параметри музики",
+      "\uD83D\uDE00\uD83D\uDC0B Я завантажив відео на веб-сайт",
+      "Твоє відео не завантажено\nДочекайся завантаження відео\nабо відправ нашому боту своє відео ще раз"
+    ],
+    "ru": [
+      "Больше похожей музыки",
+      "Ты можешь улучшить результат или \nзагрузить новое видео. \n\nДля улучшения результата попробуй нажать кнопку: \n1) \"Больше похожей музыки\", чтобы прослушать другую похожую музыку \n2) \"Изменить параметры музыки\", чтобы воплотить свою идею",
+      "Загрузить новое видео",
+      "Изменить параметры музыки",
+      "\uD83D\uDE00\uD83D\uDC0B Я загрузил видео на веб-сайт",
+      "Твое видео не загружено\nДождись загрузки видео\nили отправь свое видео нашему боту еще раз"
+    ]
+  },
+  "send_other_musics": {
+    "uk": [
+      "These soundtracks are also appropriate for this video (could you, please, wait a few minutes to download these tracks):",
+      "Select an audio and AI will make video with it: "
+    ],
+    "ua": [
+      "До цього відео підійдуть також ці треки (можеш, будь ласка, почекати кілька хвилин для завантаження цих композицій):",
+      "Обери музику і АІ змонтує нове відео з нею:"
+    ],
+    "ru": [
+      "К этому видео подойдут также эти музыкальные произведения (можешь, пожалуйста, подождать несколько минут для загрузки этих композиций):",
+      "Выбери музыку и АІ смонтирует новое видео с ней:"
+    ]
+  },
+  "answers": {
+    "uk": [
+      "Yes of course!",
+      "Maybe / sometimes",
+      "It was not enough useful"
+    ],
+    "ua": [
+      "Так, дуже!",
+      "Можливо / у деяких випадках",
+      "Було мало корисного"
+    ],
+    "ru": [
+      "Да, очень!",
+      "Возможно / в некоторых случаях",
+      "Было мало полезного"
+    ]
+  },
+  "questions": {
+    "uk": [
+      "Do you enjoy Harmix™ service?",
+      "Can the service help you in the future?",
+      "What do you want to add to this service? (write in one message) \nMaybe some additional features, web application or new parameter (like Popular Music)?",
+      "How often do you use our service?"
+    ],
+    "ua": [
+      "Чи сподобався тобі сервіс Harmix™?",
+      "Чи зможе сервіс у перспективі допомогти тобі?",
+      "Що б ти хотів додати до цього сервісу? (напиши в одному повідомленні) \nМожливо, якусь додаткову функцію, веб-додаток чи новий параметр (наприклад, Популярна музика)?",
+      "Як часто ти використовуєш наш сервіс?"
+    ],
+    "ru": [
+      "Понравилась ли тебе идея сервиса Harmix™?",
+      "Сможет ли сервис в перспективе помогать тебе?",
+      "Что бы ты хотел добавить в этот сервис? (напиши в одном сообщении) \nВозможно, какую-то дополнительную функцию, веб-приложение или новый параметр (например, Популярность музыки)?",
+      "Как часто ты используешь наш сервис?"
+    ]
+  },
+  "start_survey": {
+    "uk": "Thank you for your feedback! It's very important to me)\n\nYou can write a comment at any time using the /start_survey command",
+    "ua": "Дякую за твій відгук! Він для мене дуже важливий)\n\nТи можеш написати коментар у будь-який час використовуючи команду /start_survey",
+    "ru": "Спасибо за твой отзыв! Он для меня очень важен)\n\nТы можешь написать комментарий в любое время используя команду /start_survey"
+  }
+}

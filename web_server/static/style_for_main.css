@@ -1,0 +1,18 @@
+main.upload_video_centred_box {
+    text-align: center;
+    background-color: whitesmoke;
+    border: solid 1rem silver;
+    padding: 0.5rem;
+}
+
+main.upload_video_centred_box > form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+main.upload_video_centred_box > form > * {
+    width: 50%;
+    margin: 0.25rem;
+    text-align: inherit;
+}

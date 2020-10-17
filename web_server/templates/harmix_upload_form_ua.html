@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Завантажити відео | Harmix</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
+    <link rel="stylesheet" href="../static/harmix_upload_form.css">
+    <!-- favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="../static/images/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../static/images/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../static/images/favicon/favicon-16x16.png">
+    <link rel="manifest" href="../static/images/favicon/site.webmanifest">
+    <link rel="mask-icon" href="../static/images/favicon/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+</head>
+<body>
+<div class="wrapper">
+    <header>
+        <div class="container">
+            <img class="logo" src="../static/images/harmix_logo.svg" alt="Harmix Logo">
+            <nav class="lang_nav">
+                <ul class="lang_select">
+                    <li class="lang_item">
+                        <a class="selected" href="#">UKR</a>
+                    </li>
+                    <li class="lang_item">
+                        <a href="#">ENG</a>
+                    </li>
+                    <li class="lang_item">
+                        <a href="#">RUS</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <nav class="indicator">
+        <div class="container">
+            <div class="progress_bar">
+                <div class="bar">
+                    <div class="bar_fill"></div>
+                </div>
+                <nav class="bar_nav">
+                    <ol class="bar_list">
+                        <li class="bar_item">
+                            <a href="#" class="selected">1. Завантаж відео</a>
+                        </li>
+                        <li class="bar_item">
+                            <a href="#">2. Скорегуй <br>параметри музики</a>
+                        </li>
+                        <li class="bar_item">
+                            <a href="#">3. Готове відео</a>
+                        </li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
+    </nav>
+
+    <section class="upload_video_block">
+        <div class="container">
+            <div class="upload_video_title">Завантаж відео</div>
+            <div class="upload_video_description">
+                Вибери відео і наш A.I. добере гармонійну музику для нього! <br>
+                Дозволені розширення: mp4, avi, webm, mkv, flv, mov, wmv, m4v, 3gp, ogv, ogg, vob
+            </div>
+            <form action="/upload" method="POST"
+                  enctype="multipart/form-data"
+                  class="box has-advanced-upload">
+                <button type="button" class="button_upload">
+                    <img src="../static/images/upload_steam_icon.svg" alt="Uplaod Icon" class="button_icon">
+                    <span class="button_text">Завантажити своє відео</span>
+                </button>
+                <input type="file" name="files[]" id="file" class="box-file">
+                <input type="hidden" name="user_id" value="{{ user_id }}">
+                <input type="hidden" name="ajax" value="1">
+                <div class="lds-roller">
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div>
+                    </div>
+                    <div></div>
+                </div>
+                <button type="submit" class="submit_button"/>
+            </form>
+            <button class="button_go_back" onclick="location.href='https://t.me/harmix_bot';">
+                <img src="../static/images/left_arrow.svg" alt="Left arrow" class="back_arrow">
+                <span class="back_text">Назад</span>
+            </button>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <nav class="policies_nav">
+                <ul class="policies_list">
+                    <li class="policies_item">
+                        <a href="https://www.harmix.com.ua/upload-terms" target="_blank"
+                           class="policies_link">Умови завантаження</a>
+                    </li>
+                    <li class="policies_item">
+                        <a href="https://www.harmix.com.ua/terms-of-use" target="_blank"
+                           class="policies_link">Умови використання</a>
+                    </li>
+                    <li class="policies_item">
+                        <a href="https://www.harmix.com.ua/privacy-policy" target="_blank"
+                           class="policies_link">Політика конфіденційності</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </footer>
+</div>
+
+<script src='https://code.jquery.com/jquery-2.2.4.min.js'></script>
+<script src="../static/harmix_upload_form.js"></script>
+</body>
+</html>

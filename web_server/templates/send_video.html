@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form action="/send_video" method="POST" enctype=multipart/form-data>
+    <h2>Serving video files from Flask template</h2>
+    <video width="320" height="240" controls>
+        <source src="{{ url_for('static', filename=video_name) }}" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <div>
+        <button type="submit" id="recognize" aria-label="Next">Submit</button>
+    </div>
+</form>
+    <div>
+        <button onclick="location.href='{{ download_link }}'" type="button" aria-label="Next">Download</button>
+    </div>
+</body>
+</html>
