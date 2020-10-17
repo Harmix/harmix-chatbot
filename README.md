@@ -1,7 +1,7 @@
 # Harmix™ Telegram ChatBot
 🤖 Harmix™ Telegram ChatBot
 
-# Get started
+## Get started
 To start, open `harmix_bot.py`
 
 ## License
