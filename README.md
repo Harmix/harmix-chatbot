@@ -1,4 +1,10 @@
 # Harmix™ Telegram ChatBot
+
+![](https://img.shields.io/badge/-status:wip-5319e7.svg)
+![](https://img.shields.io/github/license/Harmix/harmix-chatbot)
+![](https://img.shields.io/github/languages/code-size/Harmix/harmix-chatbot)
+![](https://img.shields.io/github/last-commit/Harmix/harmix-chatbot)
+
 🤖 Harmix™ Telegram ChatBot – an intelligent service that automatically selects the right music for your video.
 
 ## About Harmix
